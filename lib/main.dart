@@ -33,7 +33,7 @@ class DicePage extends StatelessWidget {
           Expanded(
             child: FlatButton(
               onPressed: () {
-                print('WHat the fuck is happening');
+                print('WHat the hell is happening');
               },
               child: Image.asset('images/dice1.png'),
             ),
