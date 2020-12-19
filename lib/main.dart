@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: Text('Diceee'),
+          title: Text('Dice App'),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
@@ -58,3 +58,5 @@ class _DicePageState extends State<DicePage> {
     );
   }
 }
+//Woohoooo!!
+//APP DONE!
